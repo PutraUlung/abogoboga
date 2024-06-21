@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058457375926",
+    "project_id": "katalogmotor-f881c",
+    "storage_bucket": "katalogmotor-f881c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058457375926:android:b92195c08770f659a78217",
+        "android_client_info": {
+          "package_name": "com.example.katalog_motor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kK2dldPBGi04RXhfwrxblU6ZDDwdpqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
